@@ -1,0 +1,6 @@
+framework module Pods_PunkBeerTests {
+  umbrella header "Pods-PunkBeerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
